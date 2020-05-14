@@ -1,4 +1,4 @@
-/*by Rajasekaran (Raja-18)
+/*by Rajasekaran (https://github.com/Raja-18)
 amstrong numbers examples:- 0-9, 153, 370, 371, 407, 1634, 8208, 9474, 54748
 
 153 =>
