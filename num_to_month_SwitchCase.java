@@ -1,4 +1,5 @@
-/* By Rajasekaran*/
+/* By Rajasekaran(https://github.com/Raja-18)
+*/
 
 public class sample {
     public static void main(String[] args) {  
